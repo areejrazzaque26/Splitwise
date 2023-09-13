@@ -1,0 +1,129 @@
+.splitwise {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(53, 105, 133);
+  height: 100vh;
+}
+.inputBoxesContainer {
+  display: flex;
+  flex-direction: column;
+}
+.inputBill {
+  background-color: #282c34;
+  color: beige;
+  margin: 2px;
+  border-radius: 10px;
+  width: 150px;
+}
+.inputPeople {
+  background-color: #282c34;
+  color: beige;
+  margin: 2px;
+  border-radius: 10px;
+  width: 150px;
+}
+.splitBill {
+  background-color: #3a5fa8;
+  color: bisque;
+  border: 1px solid rgb(219, 166, 143);
+}
+
+.describe {
+  /* margin-top: 0px; */
+  color: rgb(53, 105, 133);
+}
+.displayDescription {
+  width: 400px;
+  border: 2px solid black;
+  margin: 0 auto;
+  margin-top: 10px;
+  background-color: burlywood;
+  word-wrap: break-word;
+}
+.appS {
+  background-color: rgb(225, 223, 220);
+  height: 100vh;
+}
+.SplitBillApp {
+  margin: 10px;
+}
+.report {
+  margin: 50px;
+  display: flex;
+  background-color: rgb(238, 218, 193);
+  color: rgb(53, 105, 133);
+  width: 600px;
+  height: 70vh;
+}
+.inputDate {
+  background-color: rgb(38, 38, 38);
+  color: white;
+  margin: 2px;
+  border-radius: 10px;
+  width: 150px;
+}
+.reportDiv1 {
+  width: 150px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  align-items: flex-start;
+}
+.dateReport {
+  margin: 10px;
+  color: rgb(53, 105, 133);
+  font-weight: 500;
+  font-style: italic;
+}
+.billReport {
+  margin-left: 10px;
+  font-weight: 500;
+  color: rgb(53, 105, 133);
+}
+.peopleReport {
+  margin-left: 10px;
+  font-weight: 500;
+  color: rgb(53, 105, 133);
+}
+.splitReport {
+  font-weight: 500;
+  color: rgb(53, 105, 133);
+  margin-top: 70px;
+}
+.reportDiv2 {
+  margin: 10px;
+  border: 1px solid black;
+  width: 400px;
+  background-color: salmon;
+  color: rgb(53, 105, 133);
+}
+.descriptionText {
+  color: bisque;
+  font-weight: 500;
+  font-style: oblique;
+}
+.description {
+  color: bisque;
+  font-style: initial;
+
+  margin: 10px;
+  word-wrap: break-word;
+}
+.inputBoxes {
+  align-self: flex-start;
+  display: flex;
+}
+.inputBoxes p {
+  margin: 5px;
+  margin-top: 2px;
+  font-weight: 500;
+  color: beige;
+}
+.usersDiv {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,44 @@
+.canter {
+  text-align: center;
+}
+.LoginForm {
+  width: 400px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+.form {
+  margin: 30px;
+}
+.signUpText {
+  font-weight: 800;
+  color: rgb(58, 114, 147);
+  margin: 30px;
+  font-size: larger;
+}
+.signUpLink {
+  margin: 10px;
+  font-size: small;
+}
+.loginButton {
+  width: 100%;
+  margin: 10px;
+}
+.flex {
+  display: flex;
+}
+.errorMsg {
+  color: red;
+  margin-left: 10px;
+}
+.link {
+  margin: 20px;
+}
+.formText {
+  color: antiquewhite;
+  font-weight: 500;
+}
